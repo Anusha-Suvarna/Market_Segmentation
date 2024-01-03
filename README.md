@@ -1,5 +1,5 @@
 # Market Segmentation
-In business, marketing drives growth by building brands, engaging customers, and boosting sales. Yet, knowing what customers want is a big challenge. By understanding them, we create focused marketing that suits their needs. Using customer data, data science helps split customers into groups. We're working with a New York bank, using k-means, hierarchical clustering, and PCA methods to do this. The goal is to help the bank's marketing team launch a new product. We're sorting customers into at least three groups to make their advertising more effective for each group's needs.
+In business, marketing drives growth by building brands, engaging customers, and boosting sales. Yet, knowing what customers want is a big challenge. By understanding them, we create focused marketing that suits their needs. Using customer data, data science helps split customers into groups. The goal is to help the bank's marketing team launch a new product. We're sorting customers into at least three groups to make their advertising more effective for each group's needs.
 ## Table of Contents
 
 - [Introduction](#introduction)
