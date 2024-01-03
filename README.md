@@ -20,7 +20,7 @@ This project aims to segment credit card customers using various techniques like
 
 ## Dataset Overview
 
-The dataset used in this project is the `Marketing_data.csv` file available in the `Dataset` folder. It contains various features related to credit card usage, such as balance, purchase frequency, credit limit, payments, etc. This dataset was preprocessed and scaled before applying segmentation techniques.
+The dataset used in this project is the `Marketing_data.csv` file available in the `Dataset` folder. There are 8950 records in the dataset. It contains various features related to credit card usage, such as balance, purchase frequency, credit limit, payments, etc. This dataset was preprocessed and scaled before applying segmentation techniques.
 
 
 | Feature                        | Description                                                             |
